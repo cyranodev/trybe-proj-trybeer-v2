@@ -1,4 +1,7 @@
 ##### This repo is a clone from the original group project for [Trybe](https://www.betrybe.com/) junior developer course. https://www.betrybe.com/
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # TryBeer v2
 
@@ -30,3 +33,23 @@ Run `npm install`. (which means *Node.js* must be installed in your machine)
 To start the back-end: go to *back-end* project folder and run `npm start`.
 To start the front-end: go to *front-end* project folder and run `npm start`.
 ## Important: mongoDB and mySQL services must be installed and active in your machine in order for DBs (and the whole project) to work.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/phelipe-ohlsen"><img src="https://avatars.githubusercontent.com/u/59030984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Phelipe Ohlsen</b></sub></a><br /><a href="https://github.com/cyranowebdev/trybe-proj-trybeer-v2/commits?author=phelipe-ohlsen" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

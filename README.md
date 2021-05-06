@@ -9,13 +9,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Requisites
 
-**First version:** this version follows up an initial one where the whole project is built up>
+**First version:** this version follows up an initial one where the whole project is built up. The groups are expected to develop from scratch a back-end API and a front-end website to simulate a simple app for clients to register and buy... yes, you guessed it: beer. 🍺
 
-- *Back-end:* usage of [mySQL](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [Express](https://expressjs.com/) to handle routes. We implemented basic security features such as [JWT](https://jwt.io/) for login management, as well as encryption of passwords (using [BCrypt](https://www.npmjs.com/package/bcrypt)) to store them in DB, and our own log middleware (developed by Phelipe Ohlsen, see contributors below) to write logs and handle errors within Express flow. 
+- *Back-end:* usage of [**mySQL**](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [**Express**](https://expressjs.com/) to handle routes. We also use [**JWT**](https://jwt.io/) for login management, [**BCrypt**](https://www.npmjs.com/package/bcrypt)) to encrypt passwords before storing in DB, and log and error handling middleware (developed by Phelipe Ohlsen, see contributors below). 
 
-- *Front-end:* all elements built up using [React](https://reactjs.org/) and *React Context*, along with [React Router](https://reactrouter.com/) to deal with routes and protected (logged in) routes. Visual design was not a requirement in itself
+- *Front-end:* all elements built up using [**React**](https://reactjs.org/) and *React Context*, along with [*React Router*](https://reactrouter.com/). Visual design was not a requirement in itself but we agreed in using a colour scheme and a nice logo was created by *Daniel Jesus* (see contributors below).
   
-**Set-up for current version:** the current version required a migration from mySQL to [Sequelize](https://sequelize.org/) beforehand, so the group had to create Sequelize models and migrations in order to allow seeders for automated tests to work (tests provided by Trybe to assess students' performance).
+**Set-up for current version:** the current version required a migration from mySQL to [**Sequelize**](https://sequelize.org/) to start with, so we had to create all Sequelize models and migrations before moving on to the actual requisites of the project.
 
 **Requisites sum-up:**
 
@@ -28,14 +28,17 @@
 
 ## Instructions
 
-Clone the repo or download the zip.
+**Clone** the repo or **download** the zip.
 
-Run `npm install`. (which means *Node.js* must be installed in your machine)
+Go to the project folder and run `npm install`. (which means *Node.js* must be installed in your machine)
 
-To start the back-end: go to *back-end* project folder and run `npm start`.
-To start the front-end: go to *front-end* project folder and run `npm start`.
-To run back-end tests (with coverage report): go to *back-end* project folder and run `npm run test-coverage`.
-## Important: mongoDB and mySQL services must be installed and active in your machine in order for DBs (and the whole project) to work.
+To start the **back-end**: go to *back-end* project folder and run `npm start`.
+
+To start the **front-end**: go to *front-end* project folder and run `npm start`.  
+
+To run **back-end tests** (with coverage report): go to *back-end* project folder and run `npm run test-coverage`.  
+
+#### Important: mongoDB and mySQL services must be installed and active in your machine in order for DBs (thus the whole project) to work.
 
 ## Thanks to the team ✨
 

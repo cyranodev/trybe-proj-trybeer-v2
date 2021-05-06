@@ -1,4 +1,5 @@
-##### This repo is a clone of the group project that encloses front-end and back-end modules of the [Trybe](https://www.betrybe.com/) junior developer course. https://www.betrybe.com/
+##### This repo is a clone of the group project that encloses front-end and back-end modules of the [Trybe](https://www.betrybe.com/) junior developer course.
+###### https://www.betrybe.com/
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -15,7 +16,7 @@
 
 - *Front-end:* all elements built up using [React](https://reactjs.org/) and *React Context*, along with [React Router](https://reactrouter.com/) to deal with routes and protected (logged in) routes. Visual design was not a requirement in itself
   
-**Set-up for current version:** the current version required a migration to [Sequelize](https://sequelize.org/) beforehand, so the group had to set up Sequelize models and migrations in order to allow seeders for automated tests to work (tests provided by Trybe to assess students' performance).
+**Set-up for current version:** the current version required a migration from mySQL to [Sequelize](https://sequelize.org/) beforehand, so the group had to create Sequelize models and migrations in order to allow seeders for automated tests to work (tests provided by Trybe to assess students' performance).
 
 **Requisites sum-up:**
 

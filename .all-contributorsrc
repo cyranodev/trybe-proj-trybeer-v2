@@ -1,0 +1,60 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-informational.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "danieljs-dev",
+      "name": "danieljs-dev",
+      "avatar_url": "./profiles/github-daniel.png",
+      "profile": "https://github.com/danieljs-dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PedimEduardo",
+      "name": "Pedro Eduardo ",
+      "avatar_url": "./profiles/github-pedro.png",
+      "profile": "https://github.com/PedimEduardo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "phelipe-ohlsen",
+      "name": "Phelipe Ohlsen",
+      "avatar_url": "./profiles/github-phelipe.png",
+      "profile": "https://github.com/phelipe-ohlsen",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cyranowebdev",
+      "name": "Cyrano",
+      "avatar_url": "./profiles/github-madsen.png",
+      "profile": "http://www.cyranowebdev.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "trybe-proj-trybeer-v2",
+  "projectOwner": "cyranowebdev",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

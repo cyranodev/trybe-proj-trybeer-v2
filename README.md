@@ -1,4 +1,4 @@
-##### This repo is a clone from the original group project for [Trybe](https://www.betrybe.com/) junior developer course. https://www.betrybe.com/
+##### This repo is a clone of the group project that encloses front-end and back-end modules of the [Trybe](https://www.betrybe.com/) junior developer course. https://www.betrybe.com/
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->

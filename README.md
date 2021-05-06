@@ -44,10 +44,10 @@ To run back-end tests (with coverage report): go to *back-end* project folder an
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljs-dev"><img src="https://avatars.githubusercontent.com/u/67609772?v=4" width="100px;" alt=""/><br /><sub><b>danieljs-dev</b></sub></a></td>
-    <td align="center"><a href="https://github.com/PedimEduardo"><img src="https://avatars.githubusercontent.com/u/67610181?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Eduardo </b></sub></a></td>
-    <td align="center"><a href="https://github.com/phelipe-ohlsen"><img src="https://avatars.githubusercontent.com/u/59030984?v=4" width="100px;" alt=""/><br /><sub><b>Phelipe Ohlsen</b></sub></a></td>
-    <td align="center"><a href="http://www.cyranowebdev.com"><img src="https://avatars.githubusercontent.com/u/11194796?v=4" width="100px;" alt=""/><br /><sub><b>Cyrano</b></sub></a></td>
+    <td align="center"><a href="https://github.com/danieljs-dev"><img src="./profiles/github-daniel.png" width="100px;" alt=""/><br /><sub><b>danieljs-dev</b></sub></a></td>
+    <td align="center"><a href="https://github.com/PedimEduardo"><img src="./profiles/github-pedro.png" width="100px;" alt=""/><br /><sub><b>Pedro Eduardo </b></sub></a></td>
+    <td align="center"><a href="https://github.com/phelipe-ohlsen"><img src="./profiles/github-phelipe.png" width="100px;" alt=""/><br /><sub><b>Phelipe Ohlsen</b></sub></a></td>
+    <td align="center"><a href="http://www.cyranowebdev.com"><img src="./profiles/github-madsen.png" width="100px;" alt=""/><br /><sub><b>Cyrano</b></sub></a></td>
   </tr>
 </table>
 

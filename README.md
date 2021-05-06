@@ -5,6 +5,8 @@
 
 # TryBeer v2
 
+![!project status](https://img.shields.io/badge/status-development-yellow)
+
 ## Requisites
 
 **First version:** this version follows up an initial one where the whole project is built up>
@@ -22,7 +24,7 @@
   - each client only chats with the 'store' and all chats are private
   - admin users can see all chats and send messages to clients
   - mongoDB is required to store chats
-- Back-end unit tests (we used mainly endpoint tests with Jest and Supertest to properly track coverage across 
+- Back-end unit tests (we mainly used endpoint tests with Jest and Supertest to track coverage across architecture layers)
 
 ## Instructions
 
@@ -32,11 +34,10 @@ Run `npm install`. (which means *Node.js* must be installed in your machine)
 
 To start the back-end: go to *back-end* project folder and run `npm start`.
 To start the front-end: go to *front-end* project folder and run `npm start`.
+To run back-end tests (with coverage report): go to *back-end* project folder and run `npm run test-coverage`.
 ## Important: mongoDB and mySQL services must be installed and active in your machine in order for DBs (and the whole project) to work.
 
-## Contributors ✨
-
-Thanks to the team:
+## Thanks to the team ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

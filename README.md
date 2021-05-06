@@ -5,7 +5,7 @@
 
 ![!project status](https://img.shields.io/badge/status-development-yellow)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-informational.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Requisites
 
@@ -44,9 +44,10 @@ To run back-end tests (with coverage report): go to *back-end* project folder an
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljs-dev/"><img src="https://avatars.githubusercontent.com/u/67609772?v=4?s=100" width="100px;" alt=""/><br /><sub><b>danieljs-dev</b></sub></a><br /><a href="https://github.com/cyranowebdev/trybe-proj-trybeer-v2/commits?author=danieljs-dev" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/PedimEduardo"><img src="https://avatars.githubusercontent.com/u/67610181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Eduardo </b></sub></a><br /><a href="https://github.com/cyranowebdev/trybe-proj-trybeer-v2/commits?author=PedimEduardo" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/phelipe-ohlsen"><img src="https://avatars.githubusercontent.com/u/59030984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Phelipe Ohlsen</b></sub></a><br /><a href="https://github.com/cyranowebdev/trybe-proj-trybeer-v2/commits?author=phelipe-ohlsen" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/danieljs-dev"><img src="https://avatars.githubusercontent.com/u/67609772?v=4" width="100px;" alt=""/><br /><sub><b>danieljs-dev</b></sub></a></td>
+    <td align="center"><a href="https://github.com/PedimEduardo"><img src="https://avatars.githubusercontent.com/u/67610181?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Eduardo </b></sub></a></td>
+    <td align="center"><a href="https://github.com/phelipe-ohlsen"><img src="https://avatars.githubusercontent.com/u/59030984?v=4" width="100px;" alt=""/><br /><sub><b>Phelipe Ohlsen</b></sub></a></td>
+    <td align="center"><a href="http://www.cyranowebdev.com"><img src="https://avatars.githubusercontent.com/u/11194796?v=4" width="100px;" alt=""/><br /><sub><b>Cyrano</b></sub></a></td>
   </tr>
 </table>
 

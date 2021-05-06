@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "danieljs-dev",
+      "name": "danieljs-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67609772?v=4",
+      "profile": "https://www.linkedin.com/in/daniel-js/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "phelipe-ohlsen",
       "name": "Phelipe Ohlsen",
       "avatar_url": "https://avatars.githubusercontent.com/u/59030984?v=4",

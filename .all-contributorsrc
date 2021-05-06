@@ -18,7 +18,7 @@
     {
       "login": "danieljs-dev",
       "name": "danieljs-dev",
-      "avatar_url": "https://avatars.githubusercontent.com/u/67609772?v=4",
+      "avatar_url": "./profiles/github-daniel.png",
       "profile": "https://github.com/danieljs-dev",
       "contributions": [
         "code"
@@ -27,7 +27,7 @@
     {
       "login": "PedimEduardo",
       "name": "Pedro Eduardo ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/67610181?v=4",
+      "avatar_url": "./profiles/github-pedro.png",
       "profile": "https://github.com/PedimEduardo",
       "contributions": [
         "code"
@@ -36,7 +36,7 @@
     {
       "login": "phelipe-ohlsen",
       "name": "Phelipe Ohlsen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/59030984?v=4",
+      "avatar_url": "./profiles/github-phelipe.png",
       "profile": "https://github.com/phelipe-ohlsen",
       "contributions": [
         "code"
@@ -45,7 +45,7 @@
     {
       "login": "cyranowebdev",
       "name": "Cyrano",
-      "avatar_url": "https://avatars.githubusercontent.com/u/11194796?v=4",
+      "avatar_url": "./profiles/github-madsen.png",
       "profile": "http://www.cyranowebdev.com",
       "contributions": [
         "code"

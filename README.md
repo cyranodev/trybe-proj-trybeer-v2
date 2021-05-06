@@ -3,19 +3,23 @@
 # TryBeer v2
 
 ## Requisites
-  **First version:** this version follows up an initial one where the whole project is built up>
-    - *Back-end:* usage of [mySQL](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [Express](https://expressjs.com/) to handle routes. We implemented basic security features such as [JWT](https://jwt.io/) for login management, as well as encryption of passwords (using [BCrypt](https://www.npmjs.com/package/bcrypt)) to store them in DB, and our own log middleware (developed by a group member) to write logs and handle errors in Express flow. 
-    - *Front-end:* all elements built up using [React](https://reactjs.org/) and *React Context*, along with [React Router](https://reactrouter.com/) to deal with routes and protected (logged in) routes. Visual design was not a requirement in itself
-  
-  **Set-up for current version:** the current version required a migration to [Sequelize](https://sequelize.org/) beforehand, so the group had to set up Sequelize models and migrations in order to allow seeders for automated tests to work (tests provided by Trybe to assess students' performance).
 
-  `Requisites sum-up:`
-    - Improve existing features to allow clients to see their orders' status and admin users to change that status among three possible values
-    - Create a chat feature for clients to chat with the store:
-      - each client only chats with the 'store' and all chats are private
-      - admin users can see all chats and send messages to clients
-      - mongoDB is required to store chats
-    - Back-end unit tests (we used mainly endpoint tests with Jest and Supertest to properly track coverage across 
+**First version:** this version follows up an initial one where the whole project is built up>
+
+- *Back-end:* usage of [mySQL](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [Express](https://expressjs.com/) to handle routes. We implemented basic security features such as [JWT](https://jwt.io/) for login management, as well as encryption of passwords (using [BCrypt](https://www.npmjs.com/package/bcrypt)) to store them in DB, and our own log middleware (developed by a group member) to write logs and handle errors in Express flow. 
+
+- *Front-end:* all elements built up using [React](https://reactjs.org/) and *React Context*, along with [React Router](https://reactrouter.com/) to deal with routes and protected (logged in) routes. Visual design was not a requirement in itself
+  
+**Set-up for current version:** the current version required a migration to [Sequelize](https://sequelize.org/) beforehand, so the group had to set up Sequelize models and migrations in order to allow seeders for automated tests to work (tests provided by Trybe to assess students' performance).
+
+**Requisites sum-up:**
+
+- Improve existing features to allow clients to see their orders' status and admin users to change that status among three possible values
+- Create a chat feature for clients to chat with the store:
+  - each client only chats with the 'store' and all chats are private
+  - admin users can see all chats and send messages to clients
+  - mongoDB is required to store chats
+- Back-end unit tests (we used mainly endpoint tests with Jest and Supertest to properly track coverage across 
 
 ## Instructions
 

@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/daniel-js/"><img src="https://avatars.githubusercontent.com/u/67609772?v=4?s=100" width="100px;" alt=""/><br /><sub><b>danieljs-dev</b></sub></a><br /><a href="https://github.com/cyranowebdev/trybe-proj-trybeer-v2/commits?author=danieljs-dev" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/phelipe-ohlsen"><img src="https://avatars.githubusercontent.com/u/59030984?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Phelipe Ohlsen</b></sub></a><br /><a href="https://github.com/cyranowebdev/trybe-proj-trybeer-v2/commits?author=phelipe-ohlsen" title="Code">💻</a></td>
   </tr>
 </table>
 

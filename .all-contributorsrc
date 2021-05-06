@@ -13,9 +13,8 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
+  "skipCi": true,
   "contributors": [
-    
     {
       "login": "danieljs-dev",
       "name": "danieljs-dev",
@@ -42,12 +41,20 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "cyranowebdev",
+      "name": "Cyrano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11194796?v=4",
+      "profile": "http://www.cyranowebdev.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "trybe-proj-trybeer-v2",
   "projectOwner": "cyranowebdev",
   "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true
+  "repoHost": "https://github.com"
 }

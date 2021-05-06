@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "danieljs-dev",
+      "name": "danieljs-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67609772?v=4",
+      "profile": "https://www.linkedin.com/in/daniel-js/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "trybe-proj-trybeer-v2",
+  "projectOwner": "cyranowebdev",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

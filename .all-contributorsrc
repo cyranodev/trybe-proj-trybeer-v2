@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "PedimEduardo",
+      "name": "Pedro Eduardo ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67610181?v=4",
+      "profile": "https://github.com/PedimEduardo",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "trybe-proj-trybeer-v2",
+  "projectOwner": "cyranowebdev",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

@@ -11,7 +11,7 @@
 
 **First version:** this version follows up an initial one where the whole project is built up>
 
-- *Back-end:* usage of [mySQL](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [Express](https://expressjs.com/) to handle routes. We implemented basic security features such as [JWT](https://jwt.io/) for login management, as well as encryption of passwords (using [BCrypt](https://www.npmjs.com/package/bcrypt)) to store them in DB, and our own log middleware (developed by a group member) to write logs and handle errors in Express flow. 
+- *Back-end:* usage of [mySQL](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [Express](https://expressjs.com/) to handle routes. We implemented basic security features such as [JWT](https://jwt.io/) for login management, as well as encryption of passwords (using [BCrypt](https://www.npmjs.com/package/bcrypt)) to store them in DB, and our own log middleware (developed by Phelipe Ohlsen, see contributors below) to write logs and handle errors within Express flow. 
 
 - *Front-end:* all elements built up using [React](https://reactjs.org/) and *React Context*, along with [React Router](https://reactrouter.com/) to deal with routes and protected (logged in) routes. Visual design was not a requirement in itself
   

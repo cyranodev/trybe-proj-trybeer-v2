@@ -50,7 +50,7 @@ To run **back-end tests** (with coverage report): go to *back-end* project folde
     <td align="center"><a href="https://github.com/danieljs-dev"><img src="./public/github-daniel.png" width="100px;" alt=""/><br /><sub><b>danieljs-dev</b></sub></a></td>
     <td align="center"><a href="https://github.com/PedimEduardo"><img src="./public/github-pedro.png" width="100px;" alt=""/><br /><sub><b>Pedro Eduardo </b></sub></a></td>
     <td align="center"><a href="https://github.com/phelipe-ohlsen"><img src="./public/github-phelipe.png" width="100px;" alt=""/><br /><sub><b>Phelipe Ohlsen</b></sub></a></td>
-    <td align="center"><a href="http://www.cyranowebdev.com"><img src="./public/github-madsen.png" width="100px;" alt=""/><br /><sub><b>Cyrano</b></sub></a></td>
+    <td align="center"><a href="https://github.com/cyranowebdev"><img src="./public/github-madsen.png" width="100px;" alt=""/><br /><sub><b>Cyrano</b></sub></a></td>
   </tr>
 </table>
 

@@ -1,5 +1,5 @@
-##### This repo is a clone of the group project that encloses front-end and back-end modules of the [Trybe](https://www.betrybe.com/) junior developer course.
-###### https://www.betrybe.com/
+##### <a name="top"></a> This repo is a clone of the group project that encloses front-end and back-end modules of the [Trybe](https://www.betrybe.com/) junior developer course.
+###### https://www.betrybe.com/ (in Portuguese)
 
 # TryBeer v2
 
@@ -7,7 +7,12 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-informational.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-## Requisites
+
+- [Requisites](#requisites)
+- [Instructions](#instructions)
+
+
+## Requisites <a name="requisites"></a>
 
 **First version:** this version follows up an initial one where the whole project is built up. The groups are expected to develop from scratch a back-end API and a front-end website to simulate a simple app for clients to register and buy... yes, you guessed it: beer. 🍺
 
@@ -16,6 +21,11 @@
 - *Front-end:* all elements built up using [**React**](https://reactjs.org/) and *React Context*, along with [*React Router*](https://reactrouter.com/). Visual design was not a requirement in itself but we agreed in using a colour scheme and a nice logo was created by *Daniel Jesus* (see contributors below).
   
 **Set-up for current version:** the current version required a migration from mySQL to [**Sequelize**](https://sequelize.org/) to start with, so we had to create all Sequelize models and migrations before moving on to the actual requisites of the project.
+
+#### What did I do?
+Pretty much a bit of everything. Worked on back-end features, refactoring and improvements, the whole front-end React build (and several refacts), a fair bulk of the back-end tests as well as the current styling (*work in progress*, by the way). I intend to keep improving the visuals and change slight details in the project overall, such as user profile definitions and roles.
+
+##### [back to top](#top)
 
 **Requisites sum-up:**
 
@@ -26,7 +36,7 @@
   - mongoDB is required to store chats
 - Back-end unit tests (we mainly used endpoint tests with Jest and Supertest to track coverage across architecture layers)
 
-## Instructions
+## Instructions <a name="instructions"></a>
 
 **Clone** the repo or **download** the zip.
 
@@ -40,7 +50,9 @@ To run **back-end tests** (with coverage report): go to *back-end* project folde
 
 #### Important: mongoDB and mySQL services must be installed and active in your machine in order for DBs (thus the whole project) to work.
 
-## Thanks to the team ✨
+##### [back to top](#top)
+
+## Thanks to the team! ✨ <a name="contributors"></a>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -58,3 +70,4 @@ To run **back-end tests** (with coverage report): go to *back-end* project folde
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+##### [back to top](#top)

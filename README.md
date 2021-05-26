@@ -1,6 +1,6 @@
-##### <a name="top"></a> This repo is a clone of the group project that encloses front-end and back-end modules of the [Trybe](https://www.betrybe.com/) junior developer course.
-###### https://www.betrybe.com/ (in Portuguese)
-
+#### <a name="top"></a> This repo is a clone of the group project that encloses front-end and back-end modules of the [Trybe](https://www.betrybe.com/) junior developer course.
+##### https://www.betrybe.com/ (in Portuguese)
+  
 # TryBeer v2
 
 ![!project status](https://img.shields.io/badge/status-development-yellow)
@@ -14,9 +14,9 @@
 
 ## Requisites <a name="requisites"></a>
 
-**First version:** this version follows up an initial one where the whole project is built up. The groups are expected to develop from scratch a back-end API and a front-end website to simulate a simple app for clients to register and buy... yes, you guessed it: beer. 🍺
+**This is a second version:** this version follows up an initial project, in which students are expected to develop, from scratch, the back-end API and front-end website to sell... yes, you guessed it: beer. 🍺
 
-- *Back-end:* usage of [**mySQL**](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [**Express**](https://expressjs.com/) to handle routes. We also use [**JWT**](https://jwt.io/) for login management, [**BCrypt**](https://www.npmjs.com/package/bcrypt)) to encrypt passwords before storing in DB, and log and error handling middleware (developed by Phelipe Ohlsen, see contributors below). 
+- *Back-end:* usage of [**mySQL**](https://www.mysql.com/) was required. The group decided to use a services layer in architecture and [**Express**](https://expressjs.com/) to handle routes. We also use [**JWT**](https://jwt.io/) for login management, [**BCrypt**](https://www.npmjs.com/package/bcrypt)) to encrypt passwords before storing in DB, and log and error handling middleware (developed by Phelipe Ohlsen, see contributors below). **Documentation** is available thanks to [**Swagger**](https://swagger.io), at default path `localhost:3001/documentation`.
 
 - *Front-end:* all elements built up using [**React**](https://reactjs.org/) and *React Context*, along with [*React Router*](https://reactrouter.com/). Visual design was not a requirement in itself but we agreed in using a colour scheme and a nice logo was created by *Daniel Jesus* (see contributors below).
   
@@ -42,7 +42,8 @@ Pretty much a bit of everything. Worked on back-end features, refactoring and im
 
 Go to the project folder and run `npm install`. (which means *Node.js* must be installed in your machine)
 
-To start the **back-end**: go to *back-end* project folder and run `npm start`.
+To start the **back-end**: go to *back-end* project folder and run `npm start`.   
+(**bonus**: check out the sexy documentation for the API at `localhost:3001/documentation`)
 
 To start the **front-end**: go to *front-end* project folder and run `npm start`.  
 

@@ -2,6 +2,7 @@
 ##### https://www.betrybe.com/ (in Portuguese)
   
 # TryBeer v2  ![!project status](https://img.shields.io/badge/status-development-f4a201?logo=visual-studio-code)
+![!socket io](https://img.shields.io/badge/socket.io-purple?logo=socket-dot-io)
 ![!react](https://img.shields.io/badge/react-purple?logo=react)
 ![!react-router](https://img.shields.io/badge/react%2frouter-purple?logo=react-router)
 ![!mysql](https://img.shields.io/badge/sequelize-black?logo=mysql)
@@ -10,14 +11,15 @@
 ![!mysql](https://img.shields.io/badge/swagger-black?logo=swagger)
 ![!mysql](https://img.shields.io/badge/express-black?logo=express)    
 
-
-
-- [Requisites](#requisites)
-- [Instructions](#instructions)
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-informational.svg?style=flat&logo=github)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+- [Requisites](#requisites)
+- [What did I do?](#my_work)
+- [Instructions](#instructions)
+
+
 
 ## Requisites <a name="requisites"></a>
 
@@ -28,15 +30,10 @@ We used [**Express**](https://expressjs.com/), [**JWT**](https://jwt.io/) for lo
 **Documentation** made with [**Swagger**](https://swagger.io) available at `localhost:3001/documentation`.
 
 - *Front-end:* all elements built up using [**React**](https://reactjs.org/) and *React Context*, along with [*React Router*](https://reactrouter.com/).  
+A simple **web chat** for clients and admins implemented with [**Socket.io**](https://socket.io/).
 Visual design was not a requirement in itself but we agreed in using a colour scheme and a nice logo was created by *Daniel Jesus* (see contributors below).
   
 **Set-up for current version:** the current version required a migration from mySQL to [**Sequelize**](https://sequelize.org/) to start with, so we had to create all Sequelize models and migrations before moving on to the actual requisites of the project.
-
-#### What did I do?
-A bit of everything. Back-end implementation, refactoring and improvements, and a fair bulk of the back-end tests.  
-The front-end React development (and hooks otimization) and styling (*work in progress*, by the way - logo design by our team member _Daniel Jesus_).   
-
-##### [back to top](#top)
 
 **Requisites sum-up:**
 
@@ -46,6 +43,12 @@ The front-end React development (and hooks otimization) and styling (*work in pr
   - admin users can see all chats and send messages to clients
   - mongoDB is required to store chats
 - Back-end unit tests (we mainly used endpoint tests with Jest and Supertest to track coverage across architecture layers)
+
+## What did I do? <a name="my_work"></a>
+A bit of everything. Back-end implementation, refactoring and improvements, and a fair bulk of the back-end tests.  
+The front-end React development (and hooks otimization) and styling (*work in progress*, by the way - logo design by our team member _Daniel Jesus_).   
+
+##### [back to top](#top)
 
 ## Instructions <a name="instructions"></a>
 

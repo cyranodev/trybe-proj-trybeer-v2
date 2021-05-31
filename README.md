@@ -3,9 +3,9 @@
   
 # TryBeer v2
 
-![!project status](https://img.shields.io/badge/status-development-yellow)
+![!project status](https://img.shields.io/badge/status-development-f4a201?logo=visual-studio-code)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-informational.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-informational.svg?style=flat&logo=github)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 - [Requisites](#requisites)

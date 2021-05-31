@@ -4,7 +4,7 @@
 # TryBeer v2  ![!project status](https://img.shields.io/badge/status-development-f4a201?logo=visual-studio-code)
 ![!react](https://img.shields.io/badge/react-purple?logo=react)
 ![!react-router](https://img.shields.io/badge/react%2frouter-purple?logo=react-router)
-![!mysql](https://img.shields.io/badge/mysql-black?logo=mysql)
+![!mysql](https://img.shields.io/badge/sequelize-black?logo=mysql)
 ![!mysql](https://img.shields.io/badge/bcrypt-black?logo=enpass)
 ![!mysql](https://img.shields.io/badge/jwtokens-black?logo=json-web-tokens)
 ![!mysql](https://img.shields.io/badge/swagger-black?logo=swagger)
